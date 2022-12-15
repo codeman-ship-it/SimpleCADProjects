@@ -10,9 +10,9 @@ Part 1
 
 *[Source File](https://cad.onshape.com/documents/db865eb846dfd886c05ef57e/w/ae9dd78a3cdb43a45fac8a38/e/3020aef095076076b7a4e3d7?renderMode=0&uiState=639b3877f8f2101f8d771061)*
 
-*[Blueprint](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[Blueprint](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%231.jpg)*
 
-*[STL](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[STL](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%231%20-%20Practice%20Part%201.stl)*
 
 
 
@@ -23,9 +23,9 @@ Part 2
 
 *[Source File](https://cad.onshape.com/documents/db865eb846dfd886c05ef57e/w/ae9dd78a3cdb43a45fac8a38/e/baaf7292d113dfa8a770b5c9?renderMode=0&uiState=639b38b3f8f2101f8d771283)*
 
-*[Blueprint](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[Blueprint](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%232.jpg)*
 
-*[STL](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[STL](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%232%20-%20Part%201.stl)*
 
 
 
@@ -36,9 +36,9 @@ Part 3
 
 *[Source File](https://cad.onshape.com/documents/db865eb846dfd886c05ef57e/w/ae9dd78a3cdb43a45fac8a38/e/b92c3a99fffb77addb754880?renderMode=0&uiState=639b38ecf8f2101f8d771451)*
 
-*[Blueprint](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[Blueprint](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%233.jpg)*
 
-*[STL](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[STL](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%233%20-%20Part%201.stl)*
 
 
 
@@ -49,9 +49,9 @@ Part 4
 
 *[Source File](https://cad.onshape.com/documents/db865eb846dfd886c05ef57e/w/ae9dd78a3cdb43a45fac8a38/e/4cc967cd061be406c275ec04?renderMode=0&uiState=639b390ef8f2101f8d771602)*
 
-*[Blueprint](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[Blueprint](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%234.jpg)*
 
-*[STL](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[STL](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%234%20-%20Part%201.stl)*
 
 
 
@@ -62,9 +62,9 @@ Part 5
 
 *[Source File](https://cad.onshape.com/documents/db865eb846dfd886c05ef57e/w/ae9dd78a3cdb43a45fac8a38/e/6fe9b70621f99f8ebe81a645?renderMode=0&uiState=639b392cf8f2101f8d771787)*
 
-*[Blueprint](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[Blueprint](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%235.jpg)*
 
-*[STL](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[STL](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%235%20-%20Part%201.stl)*
 
 
 
@@ -75,9 +75,9 @@ Part 6
 
 *[Source File](https://cad.onshape.com/documents/db865eb846dfd886c05ef57e/w/ae9dd78a3cdb43a45fac8a38/e/791ad16276b11e2738d98f56?renderMode=0&uiState=639b3947f8f2101f8d7718e9)*
 
-*[Blueprint](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[Blueprint](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%236.jpg)*
 
-*[STL](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[STL](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%236%20-%20Part%201.stl)*
 
 
 
@@ -89,9 +89,9 @@ Part 7
 
 *[Source File](https://cad.onshape.com/documents/db865eb846dfd886c05ef57e/w/ae9dd78a3cdb43a45fac8a38/e/c3ab1fe81b5a8dbbdd516f78?renderMode=0&uiState=639b3960f8f2101f8d7719f4)*
 
-*[Blueprint](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[Blueprint](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%237.jpg)*
 
-*[STL](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[STL](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%237%20-%20Part%201.stl)*
 
 
 
@@ -102,6 +102,6 @@ Part 8
 
 *[Source File](https://cad.onshape.com/documents/db865eb846dfd886c05ef57e/w/ae9dd78a3cdb43a45fac8a38/e/cc19e0090f44fd582080d84d?renderMode=0&uiState=639b3979f8f2101f8d771a93)*
 
-*[Blueprint](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[Blueprint](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%238.jpg)*
 
-*[STL](https://github.com/CodeNitWhit/markdown-previewer/blob/main/placeholder.md)*
+*[STL](https://github.com/codeman-ship-it/SimpleCADProjects/blob/main/Practice%20Part%20%238%20-%20Part%201.stl)*
